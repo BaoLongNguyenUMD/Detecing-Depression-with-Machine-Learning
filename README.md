@@ -1,1 +1,1 @@
-# Detecing-Depression-with-Machine-Learning
+# Detecting-Depression-with-Machine-Learning
